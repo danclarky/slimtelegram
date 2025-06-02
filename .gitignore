@@ -1,0 +1,18 @@
+# jetbrains
+/.idea/
+/.idea/*
+
+# Composer
+/vendor/
+/vendor/*
+
+# Logs
+logs/
+*.log
+
+# dotenv
+.env
+
+#session
+/session/*
+
